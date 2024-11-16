@@ -75,7 +75,7 @@ _________________________________________________________ -->
             {{ if isset .Site.Params "copyright" }}
             <p class="pull-left">{{ .Site.Params.copyright | safeHTML }} {{now.Year}}</p>
             {{ end }}
-            <p class="pull-right">
+            <p class="pull-right hidden">
               {{ i18n "templateBy" | markdownify }} <a href="https://bootstrapious.com/universal-business-e-commerce-template">Bootstrapious</a>.
               <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
 

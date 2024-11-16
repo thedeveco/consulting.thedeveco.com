@@ -420,7 +420,7 @@ id = ""
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = true
+    enableGoogleMaps = false
     googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
 
     latitude = "-12.043333"
@@ -463,7 +463,7 @@ id = ""
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Strategize, engage, deliver. Elevate your brand, empower your community.</p>"
     copyright = "Copyright DevEco Consulting; all rights reserved ©"
 
     # Format dates with Go's time formatting
@@ -551,13 +551,13 @@ id = ""
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
     hide_summary = false
 
 [params.footer.recent_posts]
-    enable = true
+    enable = false
 
 [taxonomies]
   category = "categories"

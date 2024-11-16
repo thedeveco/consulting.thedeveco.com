@@ -73,7 +73,7 @@ _________________________________________________________ -->
     <div class="container">
         <div class="col-md-12">
             {{ if isset .Site.Params "copyright" }}
-            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }} {{now.Year}}</p>
             {{ end }}
             <p class="pull-right">
               {{ i18n "templateBy" | markdownify }} <a href="https://bootstrapious.com/universal-business-e-commerce-template">Bootstrapious</a>.

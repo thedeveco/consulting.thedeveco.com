@@ -33,31 +33,31 @@ id = ""
     weight     = 1
 
 [[menu.main]]
-    name       = "Option 1: Default Page"
+    name       = "Community Building"
     url        = "/"
     weight     = 1
     parent     = "menu.services"
 
 [[menu.main]]
-    name       = "Option 2: Application"
+    name       = "Technical marketing"
     url        = "/"
     weight     = 2
     parent     = "menu.services"
 
 [[menu.main]]
-    name       = "Option 3: Startup"
+    name       = "Product Adoption"
     url        = "/"
     weight     = 3
     parent     = "menu.services"
 
 [[menu.main]]
-    name       = "Option 4: Agency"
+    name       = "Content Strategy"
     url        = "/"
     weight     = 4
     parent     = "menu.services"
 
 [[menu.main]]
-    name       = "Option 5: Portfolio"
+    name       = "Training & Consulting"
     url        = "/"
     weight     = 5
     parent     = "menu.services"
@@ -65,6 +65,18 @@ id = ""
 [[menu.main]]
     name       = "About Us"
     identifier = "menu.about"
+    url        = ""
+    weight     = 2
+
+[[menu.main]]
+    name       = "Our Mission"
+    parent     = "menu.about"
+    url        = ""
+    weight     = 2
+
+[[menu.main]]
+    name       = "Meet the Team"
+    parent     = "menu.about"
     url        = ""
     weight     = 2
 
@@ -452,7 +464,7 @@ id = ""
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "Copyright DevEco Consulting; all rights reserved ©"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

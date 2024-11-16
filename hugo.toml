@@ -516,7 +516,7 @@ id = ""
     # For more information take a look at the README.
     enable = true
     auto_play = true
-    slide_speed = 2000
+    slide_speed = 3000
     pagination_speed = 1000
 
 [params.features]
@@ -532,15 +532,15 @@ id = ""
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
     title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    subtitle = "Our clients love us. Have a look at what they say about us!"
 
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "Interested in working with us?"
+    subtitle = "Reach out and lets talk about what we can do to enable your future success!"
+    link_url = "/contact"
+    link_text = "Contact Us Now!"
 
 [params.clients]
     enable = false

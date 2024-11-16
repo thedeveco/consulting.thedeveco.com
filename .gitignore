@@ -9,6 +9,7 @@ hugo.darwin
 
 # general purpose
 .DS_Store
+**/.DS_Store
 node_modules
 dist
 tmp

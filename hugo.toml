@@ -71,7 +71,7 @@ id = ""
 [[menu.main]]
     name       = "Our Mission"
     parent     = "menu.about"
-    url        = ""
+    url        = "/mission"
     weight     = 2
 
 [[menu.main]]

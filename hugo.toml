@@ -1,4 +1,4 @@
-baseurl = "https://Consulting.TheDevEco.com/"
+baseurl = "https://Consult.TheDevEco.com/"
 title = "DevEco Consulting"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
@@ -409,14 +409,14 @@ id = ""
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    author = "TheDevEco"
+    defaultKeywords = ["devEco", "hugo", "go"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "Consultant division of the Developer Ecosystem"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
+    twitter_site = "thedeveco" # the Twitter handle of your site (without the '@')
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
@@ -472,7 +472,7 @@ id = ""
     dropdown_mouse_over = false
 
     disabled_logo = false
-    logo_text = "Universal"
+    logo_text = "devEco Consulting"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"

@@ -1,2 +1,2 @@
 # consulting.thedeveco.com
-Website source for consulting.deveco.com
+Website source for https://consult.deveco.com

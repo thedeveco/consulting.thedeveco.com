@@ -10,7 +10,7 @@ In today’s fast-paced tech landscape, building a thriving developer community 
 
 We don’t just build communities—we build experiences that developers want to be a part of. From the ground up, we create spaces where authentic connections thrive and where your brand becomes an integral part of the conversation.
 
-### Our approach includes:
+# Our approach includes
 
 - **Strategic Planning**: We craft a community strategy tailored to your goals, target audience, and industry, ensuring a solid foundation for long-term growth.
 - **Engagement Programs**: We design and execute engagement initiatives, such as virtual meetups, hackathons, AMAs, and forums, to spark meaningful interactions and discussions.

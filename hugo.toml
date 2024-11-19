@@ -34,31 +34,31 @@ id = ""
 
 [[menu.main]]
     name       = "Community Building"
-    url        = "/"
+    url        = "/community"
     weight     = 1
     parent     = "menu.services"
 
 [[menu.main]]
     name       = "Technical marketing"
-    url        = "/"
+    url        = "/technical-marketing"
     weight     = 2
     parent     = "menu.services"
 
 [[menu.main]]
     name       = "Product Adoption"
-    url        = "/"
+    url        = "/product-adoption"
     weight     = 3
     parent     = "menu.services"
 
 [[menu.main]]
     name       = "Content Strategy"
-    url        = "/"
+    url        = "/content-strategy"
     weight     = 4
     parent     = "menu.services"
 
 [[menu.main]]
     name       = "Training & Consulting"
-    url        = "/"
+    url        = "/consulting"
     weight     = 5
     parent     = "menu.services"
 

@@ -404,7 +404,7 @@ id = ""
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:Consulting@TheDevEco.com"
+    url = "mailto:Consult@TheDevEco.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -429,6 +429,9 @@ id = ""
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
 
+    contact_form_enabled = true
+    contact_form_id = "1bY7VqVjUnN_WSdHm2kjHOQuR2dpJWWO6PdjbFw_NX7s"
+
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
     # email. Visitors can send up to a 50 emails each month for free.
@@ -443,8 +446,9 @@ id = ""
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/sample/of/endpoint"
-    contact_form_ajax = false
+    
+    # formspree_action = "https://formspree.io/sample/of/endpoint"
+    # contact_form_ajax = false
 
     # Formspree form supports Google reCAPTCHA Key (type v2).
     # If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
@@ -460,8 +464,9 @@ id = ""
     #   5. change `enableRecaptchaInContactForm` is to true
     #   6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
     #
-    enableRecaptchaInContactForm = false
-    googleRecaptchaKey = "site_key_for_google_recaptcha"
+    
+    # enableRecaptchaInContactForm = false
+    # googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Strategize, engage, deliver. Elevate your brand, empower your community.</p>"
     copyright = "Copyright DevEco Consulting; all rights reserved ©"

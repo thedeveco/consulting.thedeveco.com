@@ -7,7 +7,7 @@
 
                 {{ .Content }}
 
-                {{ if isset .Site.Params "formspree_action" }}
+                {{ if isset .Site.Params "contact_form_enabled" }}
 
                 <div class="heading">
                   <h3>{{ i18n "contactForm" }}</h3>
@@ -15,40 +15,32 @@
 
                 <div id="contact-message"></div>
 
-                <form {{ with .Site.Params.contact_form_ajax }}class="contact-form-ajax"{{ else }}{{ end }} method="post" action="{{ .Site.Params.formspree_action }}">
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                              <label for="name">{{ i18n "contactName" }}</label>
-                                <input type="text" class="form-control" name="name" id="name" required>
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                                <label for="email">{{ i18n "contactMail" }}</label>
-                                <input type="email" autocomplete="email" class="form-control" name="email" id="email" required>
-                            </div>
-                        </div>
-                        <div class="col-sm-12">
-                            <div class="form-group">
-                              <label for="message">{{ i18n "contactMessage" }}</label>
-                                <textarea id="message" class="form-control" name="message" required></textarea>
-                            </div>
-                        </div>
-                        {{ if and .Site.Params.enableRecaptchaInContactForm .Site.Params.googleRecaptchaKey }}
-                        <div class="col-sm-12">
-                            <div class="g-recaptcha" data-sitekey="{{ .Site.Params.googleRecaptchaKey }}"></div>
-                            <br/>
-                        </div>
-                        {{ end }}
-
-                        <div class="col-sm-12 text-center">
-                          <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>{{ i18n "contactSend" }}</button>
-
+                <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScNybiXzhabc2hLP0s2ggGmIw6ZtQG47WN3BwE9UFYQtnaNXg/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+                  <div class="row">
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            Name:<br>
+                            <input type="text" class="form-control" name="entry.1545664179" id="entry.1545664179"><br>
                         </div>
                     </div>
-                    <!-- /.row -->
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                      Email:<br>
+                      <input type="text" class="form-control" name="entry.2021936762" id="entry.2021936762">
+                  </div></div>
+                    <div class="col-sm-12">
+                        <div class="form-group">
+                      Message:<br>
+                      <textarea type="text" class="form-control" name="entry.955167767" id="entry.955167767"></textarea>
+                  </div></div>
+                    <div class="col-sm-12 text-center">
+                      <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>Send Message</button>
+                    </div>
+                    </div>
                 </form>
+
+                <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
 
                 {{ end }}
 
@@ -74,5 +66,14 @@
     </div>
     <!-- /.row -->
 </div>
+
+<script src="assets/js/jquery.min.js"></script>
+<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(2000);
+  $('#gform').prepend('Thank you for reaching out. We will get back to you soon!');
+  });
+</script>
 
 {{ partial "map.html" . }}

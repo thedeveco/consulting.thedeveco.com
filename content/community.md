@@ -17,11 +17,11 @@ We don’t just build communities—we build experiences that developers want to
 - **Content & Resources**: We provide the tools and resources your community needs to learn, contribute, and grow. Think tutorials, blog posts, documentation, and more.
 - **Community Management**: We ensure your community remains welcoming and active through moderation, regular updates, and innovative interaction strategies.
 
-### Why It Matters
+# Why It Matters
 
 Developers value authenticity, transparency, and support. A well-built community not only boosts your brand’s credibility but also becomes a powerful channel for product feedback, advocacy, and organic growth. When developers feel seen, heard, and valued, they turn into champions of your product.
 
-### What You Get
+# What You Get
 
 By partnering with devEco Consulting for Community Building & Engagement, you’ll gain:
 
@@ -30,7 +30,7 @@ By partnering with devEco Consulting for Community Building & Engagement, you’
 - **Increased Advocacy**: Empowered developers who will advocate for your brand within their networks.
 - **Scalable Growth**: A community model that grows as your company and product evolve.
 
-### Our Process
+# Our Process
 
 - **Discovery Phase**: We get to know your brand, audience, and goals to align our strategy with your vision.
 - **Community Framework**: We build the structure of your community, from platform selection to engagement guidelines.

@@ -25,7 +25,7 @@ Developers value authenticity, transparency, and support. A well-built community
 
 By partnering with devEco Consulting for Community Building & Engagement, you’ll gain:
 
--  **Strong Foundation**: A clear strategy and roadmap to grow your community sustainably.
+- **Strong Foundation**: A clear strategy and roadmap to grow your community sustainably.
 - **Active Engagement**: Consistent interactions and activities that keep your community thriving.
 - **Increased Advocacy**: Empowered developers who will advocate for your brand within their networks.
 - **Scalable Growth**: A community model that grows as your company and product evolve.

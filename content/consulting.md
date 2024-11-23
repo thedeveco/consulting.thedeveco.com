@@ -38,6 +38,8 @@ We don’t believe in one-size-fits-all solutions. Our approach ensures that eve
 - Creating Scalable Engagement Strategies
 - Advanced Software Marketing for Developers
 
+---
+
 # Consulting Areas of Expertise
 
 Our consulting services are designed to solve complex challenges and uncover opportunities for growth. Key areas of focus include:
@@ -48,6 +50,8 @@ Our consulting services are designed to solve complex challenges and uncover opp
 - Streamlining Community Operations
 - Strategic Planning for Developer Marketing
 - Enabling Team Success with Best Practices
+
+---
 
 # Why Choose devEco Consulting?
 

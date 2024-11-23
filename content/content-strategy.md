@@ -16,12 +16,12 @@ Developers don’t just consume content—they engage with it to learn, solve pr
 
 # Our services include:
 
-**Content Audits**: Analyzing your current content to identify strengths, gaps, and opportunities for growth.
-**Strategy Development**: Crafting a roadmap tailored to your audience, industry, and objectives.
-**Content Creation**: Producing high-quality, developer-focused content, from tutorials to thought leadership pieces.
-**SEO Optimization**: Ensuring your content is discoverable and ranks highly in search results.
-**Distribution Planning**: Strategically placing content across platforms to maximize reach and engagement.
-**Performance Tracking**: Measuring success and refining strategies for continuous improvement.
+- **Content Audits**: Analyzing your current content to identify strengths, gaps, and opportunities for growth.
+- **Strategy Development**: Crafting a roadmap tailored to your audience, industry, and objectives.
+- **Content Creation**: Producing high-quality, developer-focused content, from tutorials to thought leadership pieces.
+- **SEO Optimization**: Ensuring your content is discoverable and ranks highly in search results.
+- **Distribution Planning**: Strategically placing content across platforms to maximize reach and engagement.
+- **Performance Tracking**: Measuring success and refining strategies for continuous improvement.
 
 ---
 

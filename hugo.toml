@@ -231,7 +231,7 @@ id = ""
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "About"
+    name       = "devEco Consulting"
     identifier = "section.about"
     url        = ""
     weight     = 2
@@ -239,14 +239,14 @@ id = ""
     post       = 2
 
 [[menu.main]]
-    name       = "About Us"
-    url        = ""
+    name       = "Blog"
+    url        = "/blog/"
     weight     = 1
     parent     = "section.about"
 
 [[menu.main]]
-    name       = "Our Team"
-    url        = ""
+    name       = "Follow on LinkedIn"
+    url        = "https://www.linkedin.com/company/thedeveco/"
     weight     = 2
     parent     = "section.about"
 
@@ -259,7 +259,7 @@ id = ""
     post       = 2
 
 [[menu.main]]
-    name       = "Packages"
+    name       = "Branding Guidelines"
     url        = ""
     weight     = 1
     parent     = "section.marketing"

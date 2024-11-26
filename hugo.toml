@@ -175,7 +175,7 @@ id = ""
     weight     = 3
 
 [[menu.main]]
-    name       = "Portfolio"
+    name       = "Community"
     identifier = "section.resources"
     url        = ""
     weight     = 1

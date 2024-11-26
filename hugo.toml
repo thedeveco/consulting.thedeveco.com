@@ -219,14 +219,14 @@ id = ""
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "resources - detail"
-    url        = ""
+    name       = "Twitter (X)"
+    url        = "https://x.com/thedeveco"
     weight     = 7
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "Portfolio - detail 2"
-    url        = ""
+    name       = "Developers Anonymous"
+    url        = "https://thedeveco.com/devanon"
     weight     = 8
     parent     = "section.resources"
 

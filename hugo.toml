@@ -175,7 +175,7 @@ id = ""
     weight     = 3
 
 [[menu.main]]
-    name       = "Community"
+    name       = "devEco Community"
     identifier = "section.resources"
     url        = ""
     weight     = 1
@@ -183,38 +183,38 @@ id = ""
     post       = 1
 
 [[menu.main]]
-    name       = "2 Columns"
-    url        = ""
+    name       = "Website"
+    url        = "https://thedeveco.com"
     weight     = 1
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "2 Columns With Negative Space"
-    url        = ""
+    name       = "Discord"
+    url        = "https://discord.gg/deveco"
     weight     = 2
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "3 Columns"
-    url        = ""
+    name       = "GitHub"
+    url        = "https://github.com/thedeveco"
     weight     = 3
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "3 Columns With Negative Space"
-    url        = ""
+    name       = "YouTube"
+    url        = "https://youtube.com/@thedeveco"
     weight     = 4
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "4 Columns"
-    url        = ""
+    name       = "LinkedIn Group"
+    url        = "https://www.linkedin.com/groups/14519386/"
     weight     = 5
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "4 Columns With Negative Space"
-    url        = ""
+    name       = "Instagram"
+    url        = "https://instagram.com/developersecosystem"
     weight     = 6
     parent     = "section.resources"
 

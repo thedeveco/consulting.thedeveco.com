@@ -177,7 +177,7 @@ Shortname = "devcows"
     weight     = 3
 
 [[menu.main]]
-    name       = "Portfolio"
+    name       = "devEco Community"
     identifier = "section.resources"
     url        = ""
     weight     = 1
@@ -185,55 +185,55 @@ Shortname = "devcows"
     post       = 1
 
 [[menu.main]]
-    name       = "2 Columns"
-    url        = ""
+    name       = "Website"
+    url        = "https://thedeveco.com"
     weight     = 1
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "2 Columns With Negative Space"
-    url        = ""
+    name       = "Discord"
+    url        = "https://discord.gg/deveco"
     weight     = 2
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "3 Columns"
-    url        = ""
+    name       = "GitHub"
+    url        = "https://github.com/thedeveco"
     weight     = 3
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "3 Columns With Negative Space"
-    url        = ""
+    name       = "YouTube"
+    url        = "https://youtube.com/@thedeveco"
     weight     = 4
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "4 Columns"
-    url        = ""
+    name       = "LinkedIn Group"
+    url        = "https://www.linkedin.com/groups/14519386/"
     weight     = 5
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "4 Columns With Negative Space"
-    url        = ""
+    name       = "Instagram"
+    url        = "https://instagram.com/developersecosystem"
     weight     = 6
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "resources - detail"
-    url        = ""
+    name       = "Twitter (X)"
+    url        = "https://x.com/thedeveco"
     weight     = 7
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "Portfolio - detail 2"
-    url        = ""
+    name       = "Developers Anonymous"
+    url        = "https://thedeveco.com/devanon"
     weight     = 8
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "About"
+    name       = "devEco Consulting"
     identifier = "section.about"
     url        = ""
     weight     = 2
@@ -241,14 +241,14 @@ Shortname = "devcows"
     post       = 2
 
 [[menu.main]]
-    name       = "About Us"
-    url        = ""
+    name       = "Blog"
+    url        = "/blog/"
     weight     = 1
     parent     = "section.about"
 
 [[menu.main]]
-    name       = "Our Team"
-    url        = ""
+    name       = "Follow on LinkedIn"
+    url        = "https://www.linkedin.com/company/thedeveco/"
     weight     = 2
     parent     = "section.about"
 
@@ -261,7 +261,7 @@ Shortname = "devcows"
     post       = 2
 
 [[menu.main]]
-    name       = "Packages"
+    name       = "Branding Guidelines"
     url        = ""
     weight     = 1
     parent     = "section.marketing"

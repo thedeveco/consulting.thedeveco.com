@@ -21,7 +21,9 @@ pluralizelisttitles = false
 Shortname = "devcows"
 [services.googleAnalytics]
 # Enable Google Analytics by entering your tracking code
-id = ""
+    id = ""
+[services.googleTagManager]
+    gtag = "G-142HWTR609"
 
 [menu]
 

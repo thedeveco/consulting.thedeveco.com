@@ -484,8 +484,8 @@ Shortname = "devcows"
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
-    address = """
-      """
+    # address = """
+    #   """
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"

@@ -79,7 +79,7 @@ Shortname = "devcows"
 [[menu.main]]
     name       = "Meet the Team"
     parent     = "menu.about"
-    url        = ""
+    url        = "/team"
     weight     = 2
 
 # [[menu.main]]

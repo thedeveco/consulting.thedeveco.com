@@ -10,7 +10,7 @@ Experienced Engineer, Entrepreneur, People and Community Manager, with a demonst
 
 - [LinkedIn](https://www.linkedin.com/in/fixxxxxxer/)
 - [YouTube](https://www.youtube.com/@thefixxxxxxer)
-- [X](https://x.com/fixxxxxxer)
+- [Twitter](https://x.com/fixxxxxxer)
 
 ---
 

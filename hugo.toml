@@ -228,9 +228,9 @@ Shortname = "devcows"
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "Developers Anonymous"
-    url        = "https://thedeveco.com/devanon"
-    weight     = 8
+    name       = "Events"
+    url        = "https://thedeveco.com/events"
+    weight     = 2
     parent     = "section.resources"
 
 [[menu.main]]
@@ -241,31 +241,31 @@ Shortname = "devcows"
     parent     = "menu.resources"
     post       = 2
 
-[[menu.main]]
-    name       = "Blog"
-    url        = "/blog/"
-    weight     = 1
-    parent     = "section.about"
+# [[menu.main]]
+#     name       = "Blog"
+#     url        = "/blog/"
+#     weight     = 1
+#     parent     = "section.about"
 
 [[menu.main]]
-    name       = "Follow on LinkedIn"
+    name       = "LinkedIn"
     url        = "https://www.linkedin.com/company/thedeveco/"
     weight     = 2
     parent     = "section.about"
 
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.resources"
-    post       = 2
+# [[menu.main]]
+#     name       = "Marketing"
+#     identifier = "section.marketing"
+#     url        = ""
+#     weight     = 3
+#     parent     = "menu.resources"
+#     post       = 2
 
-[[menu.main]]
-    name       = "Branding Guidelines"
-    url        = ""
-    weight     = 1
-    parent     = "section.marketing"
+# [[menu.main]]
+#     name       = "Branding Guidelines"
+#     url        = ""
+#     weight     = 1
+#     parent     = "section.marketing"
 
 # [[menu.main]]
 #     name       = "All Pages"

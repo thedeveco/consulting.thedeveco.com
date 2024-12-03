@@ -222,8 +222,8 @@ Shortname = "devcows"
     parent     = "section.resources"
 
 [[menu.main]]
-    name       = "Twitter (X)"
-    url        = "https://x.com/thedeveco"
+    name       = "Join the Community"
+    url        = "https://thedeveco.com/signup"
     weight     = 7
     parent     = "section.resources"
 

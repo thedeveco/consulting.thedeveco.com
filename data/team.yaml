@@ -18,9 +18,4 @@ members:
       - name: LinkedIn
         link: https://www.linkedin.com/in/ketanmshah/
 
-  - name: Austin
-    img: "/img/Austin.jpeg"
-    description: "Entertainer, Educator, Engineer. A software engineer with social skills specialized in storytelling and community building for global enterprise companies. Extensive experience in growing communities from 100 to 1M+."
-    links:
-      - name: LinkedIn
-        link: https://www.linkedin.com/in/austinblackstone/
+ 

@@ -8,14 +8,13 @@ Content is the foundation of meaningful engagement with developers. At devEco Co
 
 ---
 
-# What We Do
+<details>
+
+<summary><strong>What We Do</strong></summary>
 
 Developers don’t just consume content—they engage with it to learn, solve problems, and make decisions. Our expertise ensures your content provides value at every stage of the journey. From ideation to execution, we deliver content strategies that educate, engage, and convert.
 
----
-
-# Our services include:
-
+**Our services include:**
 - **Content Audits**: Analyzing your current content to identify strengths, gaps, and opportunities for growth.
 - **Strategy Development**: Crafting a roadmap tailored to your audience, industry, and objectives.
 - **Content Creation**: Producing high-quality, developer-focused content, from tutorials to thought leadership pieces.
@@ -23,9 +22,11 @@ Developers don’t just consume content—they engage with it to learn, solve pr
 - **Distribution Planning**: Strategically placing content across platforms to maximize reach and engagement.
 - **Performance Tracking**: Measuring success and refining strategies for continuous improvement.
 
----
+</details>
 
-# Why Content Strategy Matters
+<details>
+
+<summary><strong>Why Content Strategy Matters</strong></summary>
 
 Content is your voice in the developer ecosystem. A strong content strategy not only positions your brand as a thought leader but also builds trust and drives adoption of your product or service. Here’s why it’s essential:
 
@@ -34,9 +35,11 @@ Content is your voice in the developer ecosystem. A strong content strategy not 
 - **Increase Engagement**: Create meaningful interactions that deepen relationships with your audience.
 - **Drive Growth**: Generate leads, boost conversions, and support long-term business objectives.
 
----
+</details>
 
-# Our Process
+<details>
+
+<summary><strong>Our Process</strong></summary>
 
 - **Discovery & Planning**: We begin by understanding your goals, target audience, and current content landscape.
 - **Content Roadmap Development**: A detailed plan is crafted, outlining topics, formats, distribution channels, and timelines.
@@ -44,9 +47,11 @@ Content is your voice in the developer ecosystem. A strong content strategy not 
 - **Distribution & Promotion**: We deploy your content across platforms, ensuring it reaches the right audience at the right time.
 - **Performance Analysis**: We track metrics like traffic, engagement, and conversions to refine and enhance future strategies.
 
----
+</details>
 
-# What We Deliver
+<details>
+
+<summary><strong>What We Deliver</strong></summary>
 
 - **Blogs & Tutorials**: Clear, actionable content that solves problems and demonstrates value.
 - **Documentation & Guides**: Developer-friendly resources that improve product adoption and usability.
@@ -54,11 +59,15 @@ Content is your voice in the developer ecosystem. A strong content strategy not 
 - **Videos & Webinars**: Engaging multimedia content to capture attention and explain complex concepts.
 - **Social Media Content**: Bite-sized, impactful content to drive engagement and amplify your reach.
 
----
+</details>
 
-# Why Choose devEco Consulting?
+<details>
+
+<summary><strong>Why Choose devEco Consulting?</strong></summary>
 
 - **Developer-Centric Expertise**: We know what resonates with developers and how to communicate effectively.
 - **Tailored Strategies**: Every content plan is customized to align with your unique goals and audience.
 - **Creative Excellence**: We combine technical knowledge with creative storytelling to produce impactful content.
 - **Proven Results**: Our strategies drive measurable engagement, traffic, and conversions.
+
+</details>

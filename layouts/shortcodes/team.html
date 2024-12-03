@@ -1,0 +1,24 @@
+{{with .Site.Data.team}}
+
+  {{range $key, $value := .members}}
+  <section class=container id="{{$value.name}}">
+    <h2>{{$value.name}}</h2>
+    <div >
+      <img style="float:left; padding-right: 2%; max-width:20%" src="{{ $value.img }}" alt="{{ $value.name }}">
+
+      <div class="container" style = "float:right;max-width: 75%">
+        <p  >{{ $value.description}}</p>
+        <p>
+          <ul>
+          {{range $link := $value.links}}
+          <li> <a href="{{ $link.link}}">{{$link.name}}</a> </li>
+          {{end}}
+          </ul>
+        </p>
+      </div>
+      </div>
+    
+  </section>
+  
+  {{end}}
+{{end}}

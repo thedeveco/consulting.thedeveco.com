@@ -8,9 +8,7 @@ Success in the tech industry requires more than just great products—it demands
 
 ---
 
-<details>
-
-<summary><strong>What We Do</strong></summary>
+## What We Do
 
 Our Training & Consulting services bridge the gap between your team’s current capabilities and their full potential. We deliver tailored training programs and expert consulting that address your unique challenges and goals.
 
@@ -20,11 +18,9 @@ Our Training & Consulting services bridge the gap between your team’s current 
 - **Knowledge Transfer**: Empower your team with the expertise and confidence to tackle future challenges independently.
 - **Hands-On Support**: We collaborate closely with your team to provide actionable solutions and real-time guidance.
 
-</details>
+---
 
-<details>
-
-<summary><strong>Our Approach</strong></summary>
+## Our Approach
 
 We don’t believe in one-size-fits-all solutions. Our approach ensures that every training and consulting engagement is uniquely designed to meet your needs.
 
@@ -33,11 +29,9 @@ We don’t believe in one-size-fits-all solutions. Our approach ensures that eve
 - **Expert Guidance**: From initial strategy sessions to implementation support, we work alongside you to ensure success.
 - **Continuous Improvement**: With feedback loops and analytics, we refine our approach to deliver long-term impact.
 
-</details>
+---
 
-<details>
-
-<summary><strong>Training Topics We Cover</strong></summary>
+## Training Topics We Cover
 
 - Building Developer Communities
 - Open Source Contribution Best Practices
@@ -46,11 +40,9 @@ We don’t believe in one-size-fits-all solutions. Our approach ensures that eve
 - Creating Scalable Engagement Strategies
 - Advanced Software Marketing for Developers
 
-</details>
+---
 
-<details>
-
-<summary><strong>Consulting Areas of Expertise</strong></summary>
+## Consulting Areas of Expertise
 
 Our consulting services are designed to solve complex challenges and uncover opportunities for growth. Key areas of focus include:
 
@@ -61,15 +53,13 @@ Our consulting services are designed to solve complex challenges and uncover opp
 - Strategic Planning for Developer Marketing
 - Enabling Team Success with Best Practices
 
-</details>
+---
 
-<details>
-
-<summary><strong>Why Choose devEco Consulting?</strong></summary>
+## Why Choose devEco Consulting?
 
 - **Proven Expertise**: Our team brings years of hands-on experience in developer engagement, technical marketing, and community building.
 - **Tailored Solutions**: Every engagement is customized to address your unique challenges and goals.
 - **Actionable Results**: We focus on delivering measurable outcomes that drive immediate and long-term success.
 - **Empowered Teams**: We don’t just provide solutions; we enable your team to grow and excel independently.
 
-</details>
+---

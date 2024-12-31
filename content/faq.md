@@ -44,4 +44,4 @@ We don’t just build communities; we are an active part of them. Our team compr
 
 ## How Can I Get Started with devEco Consulting?
 
-Reach out to us for a personalized consultation. We’ll work with you to assess your needs, develop a strategic plan, and implement solutions that align with your goals. Contact us at support@consult.thedeveco.com.
+Reach out to us for a personalized consultation. We’ll work with you to assess your needs, develop a strategic plan, and implement solutions that align with your goals. Contact us at support@thedeveco.com.

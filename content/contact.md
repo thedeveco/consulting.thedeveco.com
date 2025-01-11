@@ -3,8 +3,10 @@ title: Contact
 id: contact
 ---
 
-# We are here to help you
+# We are here to enable you
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Are you interested in growing your developer community, creating more engaging interactive content and media, or in need of some strategic advice to take on the world? We at The DevEco Consulting are here to enable you.
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+Please reach out via the form below and we'll get back to you. 
+
+Stay awesome, and lets build better together.

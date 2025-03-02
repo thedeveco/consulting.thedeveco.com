@@ -18,15 +18,4 @@ members:
       - name: LinkedIn
         link: https://www.linkedin.com/in/ketanmshah/
 
-  - name: Austin Blackstone
-    img: "/img/austin.png"
-    description: "Entertainer, Educator, Engineer. Austin is an accomplished Developer Relations / Developer Evangelist with over a decade of industry experience spanning deeply embedded system to cloud infrastructure with a background in video production and mass marketing. "
-    links:
-      - name: LinkedIn
-        link: https://www.linkedin.com/in/austinblackstone/
-      - name: Youtube
-        link: https://www.youtube.com/@BlackstoneEngineering
-      - name: Twitter
-        link: https://x.com/engineer_austin
-
  

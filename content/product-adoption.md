@@ -8,7 +8,7 @@ Introducing a groundbreaking product is only the first step. Ensuring that devel
 
 ---
 
-# What We Do
+## What We Do
 
 Product adoption is about more than just awareness—it’s about creating a frictionless journey from discovery to mastery. We help developers see the value of your product, understand its capabilities, and integrate it into their solutions.
 
@@ -23,7 +23,7 @@ Product adoption is about more than just awareness—it’s about creating a fri
 
 ---
 
-# Why Product Adoption Matters
+## Why Product Adoption Matters
 
 Even the most innovative products need the right strategy to succeed in a crowded market. Developers are busy and selective—they need to see clear value to invest their time in learning a new tool or technology. A strong product adoption strategy helps to:
 
@@ -34,7 +34,7 @@ Even the most innovative products need the right strategy to succeed in a crowde
 
 ---
 
-# Our Process
+## Our Process
 
 - Discovery & Goal Setting: We work with you to understand your product, target audience, and adoption challenges.
 - Journey Mapping: We identify key touchpoints in the developer journey and create a roadmap for success.
@@ -44,7 +44,7 @@ Even the most innovative products need the right strategy to succeed in a crowde
 
 ---
 
-# What We Deliver
+## What We Deliver
 - Developer Onboarding Guides: Step-by-step resources to help developers integrate your product quickly and effectively.
 - Tutorials & How-Tos: Practical content that solves real-world problems and showcases your product’s capabilities.
 - Webinars & Workshops: Interactive sessions that provide deep dives into your product’s features and benefits.
@@ -53,7 +53,7 @@ Even the most innovative products need the right strategy to succeed in a crowde
 
 ---
 
-# Why Choose devEco Consulting?
+## Why Choose devEco Consulting?
 
 - Developer-Focused Expertise: We understand the unique needs and expectations of developers, ensuring your product resonates.
 - End-to-End Solutions: From strategy design to execution, we handle every aspect of the adoption process.

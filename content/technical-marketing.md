@@ -8,7 +8,7 @@ The intersection of technology and marketing is where true innovation happens. A
 
 ---
 
-# What We Do
+## What We Do
 
 Technical Marketing is more than just explaining features—it’s about demonstrating value and empowering your audience to succeed with your product. Our team bridges the gap between technology and marketing, delivering campaigns that resonate with developers and drive meaningful results.
 
@@ -25,7 +25,7 @@ Technical Content: We produce blogs, tutorials, whitepapers, videos, and more to
 
 ---
 
-# Why Technical Marketing Matters
+## Why Technical Marketing Matters
 
 Developers are savvy, discerning, and value-driven. Generic marketing doesn’t resonate with them—but authentic, informative, and solution-oriented campaigns do. Technical Marketing ensures your message connects with developers in meaningful ways, helping to:
 
@@ -36,7 +36,7 @@ Developers are savvy, discerning, and value-driven. Generic marketing doesn’t 
 
 ---
 
-# Our Process
+## Our Process
 
 - Discovery & Research: We start by understanding your product, audience, and goals to ensure a tailored strategy.
 - Message Development: We define your product’s value proposition and create compelling, developer-centric messaging.
@@ -46,7 +46,7 @@ Developers are savvy, discerning, and value-driven. Generic marketing doesn’t 
 
 ---
 
-# What We Deliver
+## What We Deliver
 
 - Technical Blogs & Tutorials: Clear, actionable content that educates and engages developers.
 - Product Documentation: Comprehensive resources that make adoption easy and intuitive.
@@ -56,7 +56,7 @@ Developers are savvy, discerning, and value-driven. Generic marketing doesn’t 
 
 ---
 
-# Why Choose devEco Consulting?
+## Why Choose devEco Consulting?
 
 - Technical Expertise: With a strong background in engineering and developer relations, we understand the technical audience better than anyone.
 - Creative Approach: We combine technical depth with creative storytelling to deliver campaigns that truly resonate.

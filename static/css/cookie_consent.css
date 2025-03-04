@@ -1,4 +1,6 @@
 .cookie_consent {
+    /* Initially hidden, js will show if consent has not been given */
+    display: none;
     position: fixed;
     bottom: 0;
     left: 0;

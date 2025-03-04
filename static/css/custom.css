@@ -1,6 +1,8 @@
 /* your styles go here */
 /* Example site test */
 
+@import url("cookie_consent.css");
+
 .box-image-text .image {
     min-height: 190px;
     max-height: 190px;

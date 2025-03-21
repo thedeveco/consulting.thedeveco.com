@@ -11,11 +11,13 @@ members:
       - name: Twitter
         link: https://x.com/fixxxxxxer
 
-  - name: Ketan Shah
-    img: "/img/ketan.jpeg"
-    description: "Accomplished executive with extensive expertise in business strategy, product innovation, marketing, and strategic partnerships, having led multimillion-dollar growth at Qualcomm, Meta, and Arm. His achievements include managing Qualcomm’s software licensing business, Arm’s business transformation, and Meta’s silicon partnership for Reality Labs. Ketan holds an MBA and a BS in Computer Engineering from the University of Miami."
+  - name: Steven Driver
+    img: "/img/driver.png"
+    description: "Inspiring software developer."
     links:
       - name: LinkedIn
-        link: https://www.linkedin.com/in/ketanmshah/
+        link: https://sdriver1.me/linkedin
+      - name: GitHub
+        link: https://sdriver1.me/github
 
  
